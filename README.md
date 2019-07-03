@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/987cee1edcc0282765d0/maintainability)](https://codeclimate.com/github/okafor-chidimma/property-pro-lite/maintainability)
+
 # property-pro-lite
 Secure and Efficient online Application for all things property. Rent, buy or sale inclusive
 
